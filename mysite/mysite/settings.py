@@ -26,7 +26,7 @@ SECRET_KEY = 'onxbv20qh#5)=2j%7f8uu@%1suxo9v6wc0sb0l6mqtg)c&dm!c'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'http://krystiank.pythonanywhere.com/',
+    'krystiank.pythonanywhere.com/',
 ]
 
 
